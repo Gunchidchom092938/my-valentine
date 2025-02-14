@@ -40,71 +40,92 @@ export default function Section2() {
                     <div className="embla__container">
                         <div className="embla__slide">
                             <img
-                                src="/images/AES04226.JPG"
+                                src="/images/sec2.webp"
                                 alt="Sample 1"
                                 className={classImag}
                             />
                         </div>
                         <div className="embla__slide">
                             <img
-                                src="/images/sec2_1.jpg"
+                                src="/images/sec2_1.webp"
                                 alt="Sample 2"
                                 className={classImag}
                             />
                         </div>
                         <div className="embla__slide">
                             <img
-                                src="/images/sec2_2.jpg"
+                                src="/images/sec2_2.webp"
                                 alt="Sample 3"
                                 className={classImag}
                             />
                         </div>
                         <div className="embla__slide">
                             <img
-                                src="/images/sec2_3.jpg"
+                                src="/images/sec2_3.webp"
                                 alt="Sample 4"
                                 className={classImag}
                             />
                         </div>
                         <div className="embla__slide">
                             <img
-                                src="/images/sec2_4.jpg"
+                                src="/images/sec2_4.webp"
                                 alt="Sample 5"
                                 className={classImag}
                             />
                         </div>
                         <div className="embla__slide">
                             <img
-                                src="/images/sec2_5.jpg"
+                                src="/images/sec2_5.webp"
                                 alt="Sample 6"
                                 className={classImag}
                             />
                         </div>
                         <div className="embla__slide">
                             <img
-                                src="/images/sec2_6.jpg"
+                                src="/images/sec2_6.webp"
                                 alt="Sample 7"
                                 className={classImag}
                             />
                         </div>
                         <div className="embla__slide">
                             <img
-                                src="/images/sec2_7.jpg"
+                                src="/images/sec2_7.webp"
                                 alt="Sample 8"
                                 className={classImag}
                             />
                         </div>
                         <div className="embla__slide">
                             <img
-                                src="/images/sec2_8.jpg"
+                                src="/images/sec2_8.webp"
                                 alt="Sample 9"
                                 className={classImag}
                             />
                         </div>
                         <div className="embla__slide">
                             <img
-                                src="/images/sec2_9.jpg"
+                                src="/images/sec2_9.webp"
                                 alt="Sample 10"
+                                className={classImag}
+                            />
+                        </div>
+                        <div className="embla__slide">
+                            <img
+                                src="/images/sec2_10.webp"
+                                alt="Sample 11"
+                                className={classImag}
+                            />
+                        </div>
+                        <div className="embla__slide">
+                            <img
+                                src="/images/sec2_11.webp"
+                                alt="Sample 12"
+                                className={classImag}
+                            />
+                        </div>
+                        <div className="embla__slide">
+                            <img
+                                src="/images/sec2_12.webp"
+                                alt="Sample 13"
                                 className={classImag}
                             />
                         </div>
@@ -116,7 +137,7 @@ export default function Section2() {
                 <br />
                 <br />
                 ตลอดเวลาที่คบกันมาพี่มีความสุขมาก ๆ ที่เราได้ไปเที่ยวกันหลาย
-                ๆที่ มีึความทรงจำมากมาย ได้ร่วมเหนื่อย
+                ๆที่ มีความทรงจำมากมาย ได้ร่วมเหนื่อย
                 และพร้อมเอ็นจอยไปด้วยกันตลอด และพี่สัญญาว่าจะพาหนูไปเทึ่ยว
                 ได้ดูวิวที่สวยงามไปด้วยกันอีกหลายที่
                 <br />
