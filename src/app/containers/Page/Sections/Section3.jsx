@@ -26,7 +26,7 @@ export default function Section3() {
             </div>
             <div className="flex-none">
                 <img
-                    src="/images/sec3.jpg"
+                    src="/images/sec3.webp"
                     alt="Sample Sec3_1"
                     className="w-[300px] h-auto rounded-lg"
                 />
