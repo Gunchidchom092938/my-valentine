@@ -24,8 +24,6 @@ export const generateViewport = () => ({
     initialScale: 1.0,
 });
 
-export const generateThemeColor = () => "#000000";
-
 const kanit = Kanit({
     weight: "300",
     subsets: ["latin", "latin-ext", "thai"],
